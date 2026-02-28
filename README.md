@@ -9,13 +9,11 @@
 - Serving as tech lead for IBC data visualization project alongside hackathon work.
 
 **TuneAI** – Mobile music recommendation app  
-_Jan 2025 – May 2025_  
 - React Native frontend with Python backend; used Google Gemini AI + Spotify API.  
 - Personalized recommendations via swipe gestures and playlist genre analysis.  
 - Secure login & real-time preference tracking to continuously refine suggestions.
 
 **Reversi Game** – Browser-based strategy game  
-_June 2024 – Aug 2024_  
 - JavaScript/HTML/CSS implementation with custom themes, move timer, and responsive layout.  
 - Efficient game logic for two-player play, move validation, and disc flipping for a dynamic UX.
 
