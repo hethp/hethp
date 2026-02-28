@@ -33,5 +33,5 @@
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/hetpatel) 
+[LinkedIn](https://www.linkedin.com/in/hetapatel) 
 ---
